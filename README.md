@@ -264,7 +264,7 @@ Each notebook includes:
 JAYDATT DAVE - https://github.com/jddas10
 
 Project Link: 
-
+https://github.com/jddas10/Drone-Battery-Intelligence-System
 \---
 
 <p align="center">
